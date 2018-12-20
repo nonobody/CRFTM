@@ -2,8 +2,7 @@
 
 CRFTM is a topic model of short text that not only develops a generalized solution to alleviate the sparsity problem by aggregating short texts into pseudo-documents, but also leverages a Condition Random Field (CRF) regularized model that encourages correlated words to share the same topic assignment.
 
-**Incorporating Word Embeddings into Topic Modeling of Short Texts.**
-anonymous authors
+**Incorporating Word Embeddings into Topic Modeling of Short Texts.** Wang Gao, Min Peng, Hua Wang, Yanchun Zhang, Qianqian Xie, Gang Tian. Knowledge and Information Systems (KAIS). 2018
 
 ## Description
 
